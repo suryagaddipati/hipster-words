@@ -19,3 +19,5 @@ hipster-words
 * social analysis
 * Sustainable 
 * Fair trade
+* micro brew
+* locally sourced
